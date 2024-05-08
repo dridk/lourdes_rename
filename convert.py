@@ -2,7 +2,7 @@ import os
 import pathlib
 import re 
 EXTENSION = ["fastq","bam"]
-RENAME = True
+RENAME = False
 
 
 # Read map 
